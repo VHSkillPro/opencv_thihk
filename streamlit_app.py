@@ -31,9 +31,9 @@ st.header("2. Linear Regression + Gradient Descent")
 
 st.write(
     """
-    - Chọn learning rate và số lần lặp để thực hiện thuật toán Gradient Descent.
-    - Ấn nút "Thực thi" để thực hiện thuật toán.
-    - Ấn nút "Tiếp tục" để thực hiện lần lặp tiếp theo.
+    - Bước 1: Chọn learning rate và số lần lặp để thực hiện thuật toán Gradient Descent.
+    - Bước 2: Ấn nút "Thực thi" để thực hiện thuật toán.
+    - Bước 3: Ấn nút "Tiếp tục" để thực hiện lần lặp tiếp theo.
     - Nếu muốn thực hiện lại từ đầu, ấn nút "Thực thi" để reset.
     """
 )
