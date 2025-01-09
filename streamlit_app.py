@@ -29,6 +29,9 @@ cols[1].scatter_chart(
 
 st.header("2. Linear Regression + Gradient Descent")
 
+st.subheader("Sơ đồ minh họa luồng xử lý")
+st.columns([1, 2, 1])[1].image("./flow.jpg", use_container_width=True)
+
 st.write(
     """
     - **Bước 1**: Chọn **learning rate** và **số lần lặp** để thực hiện thuật toán Gradient Descent.
